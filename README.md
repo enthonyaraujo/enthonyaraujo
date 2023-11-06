@@ -1,4 +1,9 @@
-### Hi there 👋
+### Olá 👋
+Atualmente estudante de Ciência e Tecnologia pela UFERSA!
+
+- 🖥️👩‍💻 Estudando programação
+- [Redes Sociais](linktr.ee/enthonyaraujo)
+
 
 <!--
 **enthonyaraujo/enthonyaraujo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
