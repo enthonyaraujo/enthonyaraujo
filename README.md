@@ -2,7 +2,7 @@
 Atualmente estudante de Ciência e Tecnologia pela UFERSA!
 
 - 🖥️👩‍💻 Estudando programação
-- [Redes Sociais](linktr.ee/enthonyaraujo)
+- [Redes Sociais](https://linktr.ee/enthonyaraujo)
 
 
 <!--
