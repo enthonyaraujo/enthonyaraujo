@@ -1,7 +1,7 @@
 
 ## 🎓 Academic Background
 
-I'm currently in the final stage of my Science and Technology degree at UFERSA (Rural Federal University of the Semi-Arid) and about to enter the Computer Engineering program. Over the course of my studies, I’ve built a strong foundation in mathematics, logic, and programming — essential pillars for my journey in tech.
+I'm currently in the final stage of my Science and Technology degree at UFERSA (Federal Rural University of the Semi-Arid) and about to enter the Computer Engineering program. Over the course of my studies, I’ve built a strong foundation in mathematics, logic, and programming — essential pillars for my journey in tech.
 
 ## 💻 Technical Skills
 
