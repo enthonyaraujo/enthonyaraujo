@@ -1,14 +1,16 @@
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux" width="80" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C" width="80" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="80" />
+</p>
+
 # 👋 Olá! Seja bem-vindo ao meu perfil GitHub
 
 Sou um entusiasta por tecnologia, apaixonado por resolver problemas com código e explorar os bastidores dos sistemas operacionais. Aqui no GitHub, compartilho projetos, estudos e experiências práticas nas áreas que mais gosto.
 
 ## 💻 Habilidades Técnicas
-
-<p>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=000" alt="Linux logo" />
-  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" alt="C logo" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python logo" />
-</p>
 
 - 🐧 **Linux**: Experiência com administração de sistemas, automações via shell script e personalizações avançadas de ambientes.
 - ⚙️ **Linguagem C**: Conhecimento sólido em programação de baixo nível, estrutura de dados e manipulação de memória.
