@@ -12,7 +12,7 @@ I'm currently in the final stage of my Science and Technology degree at UFERSA (
 
 
 <p align="left">
-  <a href="www.linkedin.com/in/enthonyaraújo" target="_blank">
+  <a href="https://www.linkedin.com/in/enthonyaraujo/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:enthonyaraujo01@gmail.com">
