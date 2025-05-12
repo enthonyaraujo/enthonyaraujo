@@ -1,7 +1,7 @@
 
 ## 🎓 Academic
 
-I'm currently in the final stage of my Bachelor's degree in Science and Technology at UFERSA and about to begin my Bachelor's in Computer Engineering.
+I'm currently in the final stage of my Bachelor's degree in Science and Technology at UFERSA and about to begin my Bachelor's in Computer Engineering, also at UFERSA.
 
 ## 💻 Technical Skills
 
