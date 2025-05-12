@@ -1,7 +1,7 @@
 
 ## 🎓 Academic
 
-I'm currently in the final stage of my Science and Technology degree at UFERSA, and about to enter the Computer Engineering program. Over the course of my studies, I’ve built a strong foundation in mathematics, logic, and programming — essential pillars for my journey in tech.
+I'm currently in the final stage of my Bachelor's degree in Science and Technology at UFERSA and about to begin my Bachelor's in Computer Engineering.
 
 ## 💻 Technical Skills
 
