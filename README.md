@@ -1,5 +1,5 @@
 
-## 🎓 Academic Background
+## 🎓 Academic
 
 I'm currently in the final stage of my Science and Technology degree at UFERSA, and about to enter the Computer Engineering program. Over the course of my studies, I’ve built a strong foundation in mathematics, logic, and programming — essential pillars for my journey in tech.
 
