@@ -1,9 +1,4 @@
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img
-      src="https://streak-stats.demolab.com?user=enthonyaraujo&theme=transparent&hide_border=true&locale=es&hide_total_contributions=true&hide_longest_streak=true&card_width=320"
-      alt="Streak" height="110">
-  </a>
   <img
     src="https://github-readme-stats.vercel.app/api?username=enthonyaraujo&show_icons=true&hide_title=true&theme=transparent&hide_border=true&card_width=320"
     alt="Stats" height="110">
