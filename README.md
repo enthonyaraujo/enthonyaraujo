@@ -5,10 +5,21 @@ Bachelor in Science and Technology from UFERSA, and currently pursuing a degree 
 
 **💻 Skills**  
 <p align="center">
-  <img alt="" src="https://img.shields.io/badge/C-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" />
-  <img alt="" src="https://img.shields.io/badge/Python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" />
-  <img alt="" src="[https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black](https://camo.githubusercontent.com/34a110ef06e3aeed9a1de60ce8099b45eedc5580e1f49cc490c1b28c896b264e/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f632f632d6f726967696e616c2e737667)" />
-</p>
+  <img 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" 
+  style="width: 48px; height: 48px;"
+/>
+
+  <img 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" 
+  style="width: 48px; height: 48px;"
+/>
+
+<img 
+  src="https://camo.githubusercontent.com/f91287c9aac55623bc37ceb651ac35b7efb56e422019a3bb59328328a09edf9f/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6c696e75782f6c696e75782d6f726967696e616c2e737667" 
+  style="width: 48px; height: 48px;"
+/>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enthonyaraujo&layout=compact&theme=radical&hide_title=true&hide_border=true&bg_color=00000000" />
