@@ -5,7 +5,7 @@ Bachelor in Science and Technology from UFERSA, and currently pursuing a degree 
 
 **💻 Skills**  
 
-<p align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+<p>
   <img 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" 
     alt="C"
@@ -21,7 +21,7 @@ Bachelor in Science and Technology from UFERSA, and currently pursuing a degree 
     alt="Linux"
     style="width: 48px; height: 48px; vertical-align: middle;"
   />
-</p>
+<p align="center" >
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enthonyaraujo&layout=compact&theme=radical&hide_title=true&hide_border=true&bg_color=00000000" />
 </p>
