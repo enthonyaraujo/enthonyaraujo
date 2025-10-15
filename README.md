@@ -21,11 +21,7 @@ Bachelor in Science and Technology from UFERSA, and currently pursuing a degree 
     alt="Linux"
     style="width: 48px; height: 48px; vertical-align: middle;"
   />
-  <img 
-  src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" 
-  alt="LaTeX logo"
-  style="width: 48px; height: 48px;"
-/>
+  
 <p align="center" >
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enthonyaraujo&layout=compact&theme=radical&hide_title=true&hide_border=true&bg_color=00000000" />
