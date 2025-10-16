@@ -8,7 +8,7 @@ Currently pursuing a degree in Computer Engineering — UFERSA
 
 ## 💻 Skills
 
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=c,python,linux" />
 </p>
 
