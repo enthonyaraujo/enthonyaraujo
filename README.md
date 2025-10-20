@@ -1,14 +1,18 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&random=false&width=435&lines=Hey%2C+I'm+Enthony+Araújo+)](https://git.io/typing-svg)
 
-## 🎓 Education  
+## 🎓 Education 
+<p align="center">
 Bachelor in Science and Technology — UFERSA  
+</p>
+<p align="center">
 Currently pursuing a degree in Computer Engineering — UFERSA
+</p>
 
 ---
 
 ## 💻 Skills
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=c,python,linux" />
 </p>
 
