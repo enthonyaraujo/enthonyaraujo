@@ -1,10 +1,8 @@
  
-<p align="center">
+
 Bachelor in Science and Technology — UFERSA  
-</p>
-<p align="center">
+
 Currently pursuing a degree in Computer Engineering — UFERSA
-</p>
 
 ---
 <!--
