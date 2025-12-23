@@ -1,8 +1,8 @@
  
 
-Bachelor in Science and Technology — UFERSA  
+🎓 Bachelor in Science and Technology — UFERSA  
 
-Currently pursuing a degree in Computer Engineering — UFERSA
+📚 Currently pursuing a degree in Computer Engineering — UFERSA
 
 ---
 <!--
