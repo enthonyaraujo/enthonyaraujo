@@ -1,7 +1,17 @@
-# Olá, eu sou o Enthony Araujo 👋
+# Hi, I'm Enthony Araujo 👋
 
-Sou bacharel em **Ciência e Tecnologia** e atualmente estou cursando **Engenharia de Computação** na Universidade Federal Rural do Semi-Árido (UFERSA). Tenho interesse e venho me desenvolvendo nas áreas de hardware e software.
+I hold a **Bachelor's degree in Science and Technology** and am currently pursuing a **Bachelor's degree in Computer Engineering** at the Federal Rural University of the Semi-Arid Region (**UFERSA**).
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![MATLAB](https://img.shields.io/badge/MATLAB-%23ED7B24.svg?style=flat-square&logo=MathWorks&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+I'm passionate about both **hardware** and **software**, and I'm continuously expanding my knowledge through academic projects and hands-on development.
+
+---
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,python,c,git,linux,verilog,matlab,vscode&theme=dark&perline=10" />
+  </a>
+</p>
+
+---
 
 ![image](https://i.imgur.com/eo6jmcf.jpeg) 
