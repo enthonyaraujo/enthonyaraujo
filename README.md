@@ -5,7 +5,6 @@
 ## 🎓 Computer Engineering Student | UFERSA
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/enthonyaraujo)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/enthonyaraujo)
 [![UFERSA](https://img.shields.io/badge/UFERSA-Computer_Engineering-006633?style=flat-square)](https://ufersa.edu.br)
 
 Developing solutions in **low-level software**, **hardware and embedded systems**, **control systems**, and **modern applications**.
