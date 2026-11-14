@@ -1,7 +1,7 @@
 
 <div align="center">
 
-## Computer Engineering Student | UFERSA
+## Computer Engineering Student
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/enthonyaraujo)
 
