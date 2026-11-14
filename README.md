@@ -21,7 +21,7 @@ Developing solutions in **low-level software**, **hardware and embedded systems*
 
 **Systems:** Linux • Kernel • Drivers • Rust  
 **Hardware:** Microcontrollers • FPGA • Digital Electronics  
-**Control Systems:** Modeling • Root Locus • MATLAB/Simulink  
+**Control Systems:** Modeling • Controllers • MATLAB/Simulink  
 **Applications:** Tauri • React • TypeScript
 
 ---
